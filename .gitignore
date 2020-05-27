@@ -64,3 +64,6 @@ package-lock.json
 .contentful.json
 .env*
 !.env.example
+
+#autohotkey scripts
+.ahk
