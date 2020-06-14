@@ -66,4 +66,4 @@ package-lock.json
 !.env.example
 
 #autohotkey scripts
-.ahk
+content/posts/champions/.ahk
